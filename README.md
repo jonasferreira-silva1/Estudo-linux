@@ -19,10 +19,6 @@ O material aborda os principais fundamentos do sistema operacional **Linux**, co
 - Linux aplicado à Cibersegurança  
 - Considerações Finais
 
-## 📄 Arquivo
-
-- [`FUNDAMENTOS_DO_LINUX.pdf`](./FUNDAMENTOS_DO_LINUX.pdf): Guia completo em formato PDF.
-
 ## 👨‍💻 Autor
 
 **Jonas Ferreira da Silva**  
